@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 /**
  * Extend Pizza Class and Define Supreme Class
- * @author Clinton Ezenwosu, Oladeji Fagbewosa
+ * @author Oladeji Fagbewesa
  */
 public class Supreme extends Pizza{
     public static final double PRICE = 15.99;
