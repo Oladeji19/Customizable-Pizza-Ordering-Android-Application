@@ -17,7 +17,7 @@ import java.util.ResourceBundle;
 
 /**
  * Define Main Controller for GUI.
- * @author Clinton Ezenwosu, Oladeji Fagbewosa
+ * @author Oladeji Fagbewesa
  */
 public class MainMenuActivity {
     private static StoreOrders orders = new StoreOrders();
