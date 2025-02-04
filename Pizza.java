@@ -1,4 +1,4 @@
-package com.example.cs213project4;
+package com.example.project;
 import java.text.DecimalFormat;
 import java.util.ArrayList;
 
