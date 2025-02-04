@@ -20,7 +20,7 @@ import java.util.ResourceBundle;
 
 /**
  * Current Order GUI Controller class.
- * @author Clinton Ezenwosu, Oladeji Fagbewosa
+ * @author Oladeji Fagbewesa
  */
 
 public class CurrentOrderActivity {
