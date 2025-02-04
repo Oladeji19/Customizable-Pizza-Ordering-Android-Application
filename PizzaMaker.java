@@ -5,7 +5,7 @@ import java.util.ArrayList;
 
 /**
  * Define PizzaMaker Class
- * @author Clinton Ezenwosu, Oladeji Fagbewosa
+ * @author Oladeji Fagbewesa
  */
 public class PizzaMaker {
 
