@@ -1,4 +1,4 @@
-package com.example.cs213project4;
+package com.example.project;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
