@@ -21,7 +21,7 @@ import java.util.ResourceBundle;
 
 /**
  * Store Orders GUI Controller class.
- * @author Clinton Ezenwosu, Oladeji Fagbewosa
+ * @author Oladeji Fagbewesa
  */
 public class StoreOrdersActivity implements Initializable {
 
