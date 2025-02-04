@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 /**
  * Extend Pizza class and Define Meatzza Class.
- * @author Clinton Ezenwosu, Oladeji Fagbewosa
+ * @author Oladeji Fagbewesa
  */
 
 public class Meatzza extends Pizza{
