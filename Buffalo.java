@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 /**
  * Extend Pizza class and Define BBQ Class.
- * @author Clinton Ezenwosu, Oladeji Fagbewosa
+ * @author Oladeji Fagbewesa
  */
 
 public class Buffalo extends Pizza{
