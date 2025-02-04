@@ -2,7 +2,7 @@ package com.example.cs213project4;
 
 /**
  * Define Sauce Enum Class
- * @author Clinton Ezenwosu, Oladeji Fagbewosa
+ * @author Oladeji Fagbewesa
  */
 public enum Sauce {
     TOMATO,
