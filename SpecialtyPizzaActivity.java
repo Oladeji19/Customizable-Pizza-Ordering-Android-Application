@@ -22,7 +22,7 @@ import java.util.ResourceBundle;
 
 /**
  * Specialty Pizza GUI Controller class.
- * @author Clinton Ezenwosu, Oladeji Fagbewosa
+ * @author Oladeji Fagbewesa
  */
 public class SpecialtyPizzaController implements Initializable {
     @FXML
