@@ -1,7 +1,7 @@
 package com.example.cs213project4;
 /**
  * Define Topping Enum Class
- * @author Clinton Ezenwosu, Oladeji Fagbewosa
+ * @author Oladeji Fagbewesa
  */
 public enum Topping {
     SAUSAGE, PEPPERONI, GREEN_PEPPERS, ONION, MUSHROOM, BLACK_OLIVE,
