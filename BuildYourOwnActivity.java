@@ -23,7 +23,7 @@ import static com.example.cs213project4.PizzaMaker.createPizza;
 
 /**
  * Define Controller for Build Your Own GUI Class
- * @author Clinton Ezenwosu, Oladeji Fagbewosa
+ * @author Oladeji Fagbewesa
  */
 public class BuildYourOwnActivity implements Initializable {
 
