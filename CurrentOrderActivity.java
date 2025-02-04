@@ -1,4 +1,4 @@
-package com.example.cs213project4;
+package com.example.project;
 
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
