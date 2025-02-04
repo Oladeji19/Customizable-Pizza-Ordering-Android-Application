@@ -9,7 +9,7 @@ import java.util.ArrayList;
 
 /**
  * Define Order class.
- * @author Clinton Ezenwosu, Oladeji Fagbewosa
+ * @author Oladeji Fagbewesa
  */
 
 public class Order {
