@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 /**
  * Extend Pizza Class and Define Seafood Class
- * @author Clinton Ezenwosu, Oladeji Fagbewosa
+ * @author Oladeji Fagbewesa
  */
 public class Seafood extends Pizza{
 
